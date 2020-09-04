@@ -1,3 +1,6 @@
+//Author: Cole D. Black-Stallard cdb5655@psu.edu
+//Collaborators: NONE
+
 #include <stdio.h>
 #include <readline/readline.h>
 
